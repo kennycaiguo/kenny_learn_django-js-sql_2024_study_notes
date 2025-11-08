@@ -4,4 +4,4 @@ kenny_learn_django-js-sql_2024这个课程的学习笔记还有一些老师的�
 https://github.com/kennycaiguo/kenny_learn_django-js-sql_2024
 
 
-<href="https://ko-fi.com/kennychoi">请支持一下,谢谢</a>
+<a href="https://ko-fi.com/kennychoi">请支持一下,谢谢</a>
